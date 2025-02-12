@@ -1,0 +1,7 @@
+C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\SwapTwoNumbers\SwapTwoNumbers\bin\Debug\SwapTwoNumbers.exe.config
+C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\SwapTwoNumbers\SwapTwoNumbers\bin\Debug\SwapTwoNumbers.exe
+C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\SwapTwoNumbers\SwapTwoNumbers\bin\Debug\SwapTwoNumbers.pdb
+C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\SwapTwoNumbers\SwapTwoNumbers\obj\Debug\SwapTwoNumbers.csproj.AssemblyReference.cache
+C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\SwapTwoNumbers\SwapTwoNumbers\obj\Debug\SwapTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\SwapTwoNumbers\SwapTwoNumbers\obj\Debug\SwapTwoNumbers.exe
+C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\SwapTwoNumbers\SwapTwoNumbers\obj\Debug\SwapTwoNumbers.pdb

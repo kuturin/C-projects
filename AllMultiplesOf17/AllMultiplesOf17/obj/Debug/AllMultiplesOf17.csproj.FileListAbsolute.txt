@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\AllMultiplesOf17\AllMultiplesOf17\bin\Debug\AllMultiplesOf17.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\AllMultiplesOf17\AllMultiplesOf17\bin\Debug\AllMultiplesOf17.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\AllMultiplesOf17\AllMultiplesOf17\bin\Debug\AllMultiplesOf17.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\AllMultiplesOf17\AllMultiplesOf17\obj\Debug\AllMultiplesOf17.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\AllMultiplesOf17\AllMultiplesOf17\obj\Debug\AllMultiplesOf17.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\AllMultiplesOf17\AllMultiplesOf17\obj\Debug\AllMultiplesOf17.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\AllMultiplesOf17\AllMultiplesOf17\obj\Debug\AllMultiplesOf17.pdb

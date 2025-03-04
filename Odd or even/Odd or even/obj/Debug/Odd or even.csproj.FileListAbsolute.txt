@@ -1,0 +1,7 @@
+C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\Odd or even\Odd or even\bin\Debug\Odd or even.exe.config
+C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\Odd or even\Odd or even\bin\Debug\Odd or even.exe
+C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\Odd or even\Odd or even\bin\Debug\Odd or even.pdb
+C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\Odd or even\Odd or even\obj\Debug\Odd or even.csproj.AssemblyReference.cache
+C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\Odd or even\Odd or even\obj\Debug\Odd or even.csproj.CoreCompileInputs.cache
+C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\Odd or even\Odd or even\obj\Debug\Odd or even.exe
+C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\Odd or even\Odd or even\obj\Debug\Odd or even.pdb

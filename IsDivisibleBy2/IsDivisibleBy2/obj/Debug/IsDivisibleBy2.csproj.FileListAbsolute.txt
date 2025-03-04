@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\IsDivisibleBy2\IsDivisibleBy2\bin\Debug\IsDivisibleBy2.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\IsDivisibleBy2\IsDivisibleBy2\bin\Debug\IsDivisibleBy2.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\IsDivisibleBy2\IsDivisibleBy2\bin\Debug\IsDivisibleBy2.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\IsDivisibleBy2\IsDivisibleBy2\obj\Debug\IsDivisibleBy2.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\IsDivisibleBy2\IsDivisibleBy2\obj\Debug\IsDivisibleBy2.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\IsDivisibleBy2\IsDivisibleBy2\obj\Debug\IsDivisibleBy2.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\IsDivisibleBy2\IsDivisibleBy2\obj\Debug\IsDivisibleBy2.pdb

@@ -1,0 +1,7 @@
+C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\Odd numbers in range\Odd numbers in range\bin\Debug\Odd numbers in range.exe.config
+C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\Odd numbers in range\Odd numbers in range\bin\Debug\Odd numbers in range.exe
+C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\Odd numbers in range\Odd numbers in range\bin\Debug\Odd numbers in range.pdb
+C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\Odd numbers in range\Odd numbers in range\obj\Debug\Odd numbers in range.csproj.AssemblyReference.cache
+C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\Odd numbers in range\Odd numbers in range\obj\Debug\Odd numbers in range.csproj.CoreCompileInputs.cache
+C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\Odd numbers in range\Odd numbers in range\obj\Debug\Odd numbers in range.exe
+C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\Odd numbers in range\Odd numbers in range\obj\Debug\Odd numbers in range.pdb

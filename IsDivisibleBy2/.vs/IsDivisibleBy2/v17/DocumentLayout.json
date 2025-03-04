@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\turku\\OneDrive\\Desktop\\programowanie\\projekty\\C-projects\\IsDivisibleBy2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47817270-618D-4B52-AB9E-3C4ED5061579}|IsDivisibleBy2\\IsDivisibleBy2.csproj|c:\\users\\turku\\onedrive\\desktop\\programowanie\\projekty\\c-projects\\isdivisibleby2\\isdivisibleby2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47817270-618D-4B52-AB9E-3C4ED5061579}|IsDivisibleBy2\\IsDivisibleBy2.csproj|solutionrelative:isdivisibleby2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\turku\\OneDrive\\Desktop\\programowanie\\projekty\\C-projects\\IsDivisibleBy2\\IsDivisibleBy2\\Program.cs",
+              "RelativeDocumentMoniker": "IsDivisibleBy2\\Program.cs",
+              "ToolTip": "C:\\Users\\turku\\OneDrive\\Desktop\\programowanie\\projekty\\C-projects\\IsDivisibleBy2\\IsDivisibleBy2\\Program.cs",
+              "RelativeToolTip": "IsDivisibleBy2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:49:21.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,0 @@
-C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\NegativeOrPositive\NegativeOrPositive\bin\Debug\NegativeOrPositive.exe.config
-C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\NegativeOrPositive\NegativeOrPositive\bin\Debug\NegativeOrPositive.exe
-C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\NegativeOrPositive\NegativeOrPositive\bin\Debug\NegativeOrPositive.pdb
-C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\NegativeOrPositive\NegativeOrPositive\obj\Debug\NegativeOrPositive.csproj.AssemblyReference.cache
-C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\NegativeOrPositive\NegativeOrPositive\obj\Debug\NegativeOrPositive.csproj.CoreCompileInputs.cache
-C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\NegativeOrPositive\NegativeOrPositive\obj\Debug\NegativeOrPositive.exe
-C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\NegativeOrPositive\NegativeOrPositive\obj\Debug\NegativeOrPositive.pdb

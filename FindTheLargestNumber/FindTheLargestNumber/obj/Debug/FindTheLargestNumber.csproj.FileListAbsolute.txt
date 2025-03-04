@@ -1,7 +1,0 @@
-C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\FindTheLargestNumber\FindTheLargestNumber\bin\Debug\FindTheLargestNumber.exe.config
-C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\FindTheLargestNumber\FindTheLargestNumber\bin\Debug\FindTheLargestNumber.exe
-C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\FindTheLargestNumber\FindTheLargestNumber\bin\Debug\FindTheLargestNumber.pdb
-C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\FindTheLargestNumber\FindTheLargestNumber\obj\Debug\FindTheLargestNumber.csproj.AssemblyReference.cache
-C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\FindTheLargestNumber\FindTheLargestNumber\obj\Debug\FindTheLargestNumber.csproj.CoreCompileInputs.cache
-C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\FindTheLargestNumber\FindTheLargestNumber\obj\Debug\FindTheLargestNumber.exe
-C:\Users\msi\Desktop\programowanie\projekty\backend&programing\C# projects\FindTheLargestNumber\FindTheLargestNumber\obj\Debug\FindTheLargestNumber.pdb

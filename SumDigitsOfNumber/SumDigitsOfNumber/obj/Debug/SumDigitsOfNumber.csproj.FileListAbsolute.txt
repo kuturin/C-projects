@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SumDigitsOfNumber\SumDigitsOfNumber\bin\Debug\SumDigitsOfNumber.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SumDigitsOfNumber\SumDigitsOfNumber\bin\Debug\SumDigitsOfNumber.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SumDigitsOfNumber\SumDigitsOfNumber\bin\Debug\SumDigitsOfNumber.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SumDigitsOfNumber\SumDigitsOfNumber\obj\Debug\SumDigitsOfNumber.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SumDigitsOfNumber\SumDigitsOfNumber\obj\Debug\SumDigitsOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SumDigitsOfNumber\SumDigitsOfNumber\obj\Debug\SumDigitsOfNumber.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SumDigitsOfNumber\SumDigitsOfNumber\obj\Debug\SumDigitsOfNumber.pdb

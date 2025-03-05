@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\ReverseNumberIsPalindrom\ReverseNumberIsPalindrom\obj\Debug\ReverseNumberIsPalindrom.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\ReverseNumberIsPalindrom\ReverseNumberIsPalindrom\obj\Debug\ReverseNumberIsPalindrom.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\ReverseNumberIsPalindrom\ReverseNumberIsPalindrom\bin\Debug\ReverseNumberIsPalindrom.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\ReverseNumberIsPalindrom\ReverseNumberIsPalindrom\bin\Debug\ReverseNumberIsPalindrom.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\ReverseNumberIsPalindrom\ReverseNumberIsPalindrom\bin\Debug\ReverseNumberIsPalindrom.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\ReverseNumberIsPalindrom\ReverseNumberIsPalindrom\obj\Debug\ReverseNumberIsPalindrom.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\ReverseNumberIsPalindrom\ReverseNumberIsPalindrom\obj\Debug\ReverseNumberIsPalindrom.pdb

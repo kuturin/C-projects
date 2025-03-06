@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SumOfToBinaryNumbers\SumOfToBinaryNumbers\bin\Debug\SumOfToBinaryNumbers.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SumOfToBinaryNumbers\SumOfToBinaryNumbers\bin\Debug\SumOfToBinaryNumbers.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SumOfToBinaryNumbers\SumOfToBinaryNumbers\bin\Debug\SumOfToBinaryNumbers.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SumOfToBinaryNumbers\SumOfToBinaryNumbers\obj\Debug\SumOfToBinaryNumbers.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SumOfToBinaryNumbers\SumOfToBinaryNumbers\obj\Debug\SumOfToBinaryNumbers.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SumOfToBinaryNumbers\SumOfToBinaryNumbers\obj\Debug\SumOfToBinaryNumbers.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SumOfToBinaryNumbers\SumOfToBinaryNumbers\obj\Debug\SumOfToBinaryNumbers.pdb

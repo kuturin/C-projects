@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\MultiplyBinaryNumbers\MultiplyBinaryNumbers\bin\Debug\MultiplyBinaryNumbers.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\MultiplyBinaryNumbers\MultiplyBinaryNumbers\bin\Debug\MultiplyBinaryNumbers.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\MultiplyBinaryNumbers\MultiplyBinaryNumbers\bin\Debug\MultiplyBinaryNumbers.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\MultiplyBinaryNumbers\MultiplyBinaryNumbers\obj\Debug\MultiplyBinaryNumbers.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\MultiplyBinaryNumbers\MultiplyBinaryNumbers\obj\Debug\MultiplyBinaryNumbers.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\MultiplyBinaryNumbers\MultiplyBinaryNumbers\obj\Debug\MultiplyBinaryNumbers.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\MultiplyBinaryNumbers\MultiplyBinaryNumbers\obj\Debug\MultiplyBinaryNumbers.pdb

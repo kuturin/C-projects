@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\ExponentsCalculator\ExponentsCalculator\bin\Debug\ExponentsCalculator.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\ExponentsCalculator\ExponentsCalculator\bin\Debug\ExponentsCalculator.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\ExponentsCalculator\ExponentsCalculator\bin\Debug\ExponentsCalculator.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\ExponentsCalculator\ExponentsCalculator\obj\Debug\ExponentsCalculator.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\ExponentsCalculator\ExponentsCalculator\obj\Debug\ExponentsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\ExponentsCalculator\ExponentsCalculator\obj\Debug\ExponentsCalculator.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\ExponentsCalculator\ExponentsCalculator\obj\Debug\ExponentsCalculator.pdb

@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\VerySimpleCalculator\VerySimpleCalculator\bin\Debug\VerySimpleCalculator.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\VerySimpleCalculator\VerySimpleCalculator\bin\Debug\VerySimpleCalculator.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\VerySimpleCalculator\VerySimpleCalculator\bin\Debug\VerySimpleCalculator.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\VerySimpleCalculator\VerySimpleCalculator\obj\Debug\VerySimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\VerySimpleCalculator\VerySimpleCalculator\obj\Debug\VerySimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\VerySimpleCalculator\VerySimpleCalculator\obj\Debug\VerySimpleCalculator.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\VerySimpleCalculator\VerySimpleCalculator\obj\Debug\VerySimpleCalculator.pdb

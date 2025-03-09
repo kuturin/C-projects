@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\PrintMultiplicationTable\PrintMultiplicationTable\bin\Debug\PrintMultiplicationTable.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\PrintMultiplicationTable\PrintMultiplicationTable\bin\Debug\PrintMultiplicationTable.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\PrintMultiplicationTable\PrintMultiplicationTable\bin\Debug\PrintMultiplicationTable.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\PrintMultiplicationTable\PrintMultiplicationTable\obj\Debug\PrintMultiplicationTable.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\PrintMultiplicationTable\PrintMultiplicationTable\obj\Debug\PrintMultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\PrintMultiplicationTable\PrintMultiplicationTable\obj\Debug\PrintMultiplicationTable.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\PrintMultiplicationTable\PrintMultiplicationTable\obj\Debug\PrintMultiplicationTable.pdb

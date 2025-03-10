@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\LowerToUpperAndUpperToLower\LowerToUpperAndUpperToLower\obj\Debug\LowerToUpperAndUpperToLower.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\LowerToUpperAndUpperToLower\LowerToUpperAndUpperToLower\obj\Debug\LowerToUpperAndUpperToLower.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\LowerToUpperAndUpperToLower\LowerToUpperAndUpperToLower\bin\Debug\LowerToUpperAndUpperToLower.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\LowerToUpperAndUpperToLower\LowerToUpperAndUpperToLower\bin\Debug\LowerToUpperAndUpperToLower.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\LowerToUpperAndUpperToLower\LowerToUpperAndUpperToLower\bin\Debug\LowerToUpperAndUpperToLower.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\LowerToUpperAndUpperToLower\LowerToUpperAndUpperToLower\obj\Debug\LowerToUpperAndUpperToLower.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\LowerToUpperAndUpperToLower\LowerToUpperAndUpperToLower\obj\Debug\LowerToUpperAndUpperToLower.pdb

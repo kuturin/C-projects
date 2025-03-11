@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DwarfGiantOrAverage\DwarfGiantOrAverage\bin\Debug\DwarfGiantOrAverage.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DwarfGiantOrAverage\DwarfGiantOrAverage\bin\Debug\DwarfGiantOrAverage.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DwarfGiantOrAverage\DwarfGiantOrAverage\bin\Debug\DwarfGiantOrAverage.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DwarfGiantOrAverage\DwarfGiantOrAverage\obj\Debug\DwarfGiantOrAverage.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DwarfGiantOrAverage\DwarfGiantOrAverage\obj\Debug\DwarfGiantOrAverage.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DwarfGiantOrAverage\DwarfGiantOrAverage\obj\Debug\DwarfGiantOrAverage.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DwarfGiantOrAverage\DwarfGiantOrAverage\obj\Debug\DwarfGiantOrAverage.pdb

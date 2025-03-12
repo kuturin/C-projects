@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\MinRange\MinRange\bin\Debug\MinRange.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\MinRange\MinRange\bin\Debug\MinRange.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\MinRange\MinRange\bin\Debug\MinRange.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\MinRange\MinRange\obj\Debug\MinRange.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\MinRange\MinRange\obj\Debug\MinRange.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\MinRange\MinRange\obj\Debug\MinRange.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\MinRange\MinRange\obj\Debug\MinRange.pdb

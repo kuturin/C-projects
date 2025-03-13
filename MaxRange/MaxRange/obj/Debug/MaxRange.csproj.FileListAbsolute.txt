@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\MaxRange\MaxRange\bin\Debug\MaxRange.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\MaxRange\MaxRange\bin\Debug\MaxRange.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\MaxRange\MaxRange\bin\Debug\MaxRange.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\MaxRange\MaxRange\obj\Debug\MaxRange.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\MaxRange\MaxRange\obj\Debug\MaxRange.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\MaxRange\MaxRange\obj\Debug\MaxRange.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\MaxRange\MaxRange\obj\Debug\MaxRange.pdb

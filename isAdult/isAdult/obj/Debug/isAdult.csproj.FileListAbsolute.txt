@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\isAdult\isAdult\obj\Debug\isAdult.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\isAdult\isAdult\obj\Debug\isAdult.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\isAdult\isAdult\bin\Debug\isAdult.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\isAdult\isAdult\bin\Debug\isAdult.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\isAdult\isAdult\bin\Debug\isAdult.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\isAdult\isAdult\obj\Debug\isAdult.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\isAdult\isAdult\obj\Debug\isAdult.pdb

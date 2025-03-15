@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\unboxingOperation\unboxingOperation\bin\Debug\unboxingOperation.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\unboxingOperation\unboxingOperation\bin\Debug\unboxingOperation.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\unboxingOperation\unboxingOperation\bin\Debug\unboxingOperation.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\unboxingOperation\unboxingOperation\obj\Debug\unboxingOperation.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\unboxingOperation\unboxingOperation\obj\Debug\unboxingOperation.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\unboxingOperation\unboxingOperation\obj\Debug\unboxingOperation.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\unboxingOperation\unboxingOperation\obj\Debug\unboxingOperation.pdb

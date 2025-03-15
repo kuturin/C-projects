@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\BoxingOperations\BoxingOperations\bin\Debug\BoxingOperations.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\BoxingOperations\BoxingOperations\bin\Debug\BoxingOperations.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\BoxingOperations\BoxingOperations\bin\Debug\BoxingOperations.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\BoxingOperations\BoxingOperations\obj\Debug\BoxingOperations.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\BoxingOperations\BoxingOperations\obj\Debug\BoxingOperations.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\BoxingOperations\BoxingOperations\obj\Debug\BoxingOperations.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\BoxingOperations\BoxingOperations\obj\Debug\BoxingOperations.pdb

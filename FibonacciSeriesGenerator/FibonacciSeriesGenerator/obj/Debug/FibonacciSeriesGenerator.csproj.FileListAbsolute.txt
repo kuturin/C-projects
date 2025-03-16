@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\FibonacciSeriesGenerator\FibonacciSeriesGenerator\obj\Debug\FibonacciSeriesGenerator.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\FibonacciSeriesGenerator\FibonacciSeriesGenerator\obj\Debug\FibonacciSeriesGenerator.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\FibonacciSeriesGenerator\FibonacciSeriesGenerator\bin\Debug\FibonacciSeriesGenerator.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\FibonacciSeriesGenerator\FibonacciSeriesGenerator\bin\Debug\FibonacciSeriesGenerator.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\FibonacciSeriesGenerator\FibonacciSeriesGenerator\bin\Debug\FibonacciSeriesGenerator.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\FibonacciSeriesGenerator\FibonacciSeriesGenerator\obj\Debug\FibonacciSeriesGenerator.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\FibonacciSeriesGenerator\FibonacciSeriesGenerator\obj\Debug\FibonacciSeriesGenerator.pdb

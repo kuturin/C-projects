@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\FactorialOfNumber\FactorialOfNumber\obj\Debug\FactorialOfNumber.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\FactorialOfNumber\FactorialOfNumber\obj\Debug\FactorialOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\FactorialOfNumber\FactorialOfNumber\bin\Debug\FactorialOfNumber.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\FactorialOfNumber\FactorialOfNumber\bin\Debug\FactorialOfNumber.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\FactorialOfNumber\FactorialOfNumber\bin\Debug\FactorialOfNumber.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\FactorialOfNumber\FactorialOfNumber\obj\Debug\FactorialOfNumber.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\FactorialOfNumber\FactorialOfNumber\obj\Debug\FactorialOfNumber.pdb

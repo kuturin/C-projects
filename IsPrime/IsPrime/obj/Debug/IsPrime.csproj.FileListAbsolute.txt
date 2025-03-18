@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\IsPrime\IsPrime\bin\Debug\IsPrime.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\IsPrime\IsPrime\bin\Debug\IsPrime.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\IsPrime\IsPrime\bin\Debug\IsPrime.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\IsPrime\IsPrime\obj\Debug\IsPrime.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\IsPrime\IsPrime\obj\Debug\IsPrime.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\IsPrime\IsPrime\obj\Debug\IsPrime.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\IsPrime\IsPrime\obj\Debug\IsPrime.pdb

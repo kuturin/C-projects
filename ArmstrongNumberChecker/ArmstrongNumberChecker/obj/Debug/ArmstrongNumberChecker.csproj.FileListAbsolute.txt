@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\ArmstrongNumberChecker\ArmstrongNumberChecker\obj\Debug\ArmstrongNumberChecker.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\ArmstrongNumberChecker\ArmstrongNumberChecker\obj\Debug\ArmstrongNumberChecker.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\ArmstrongNumberChecker\ArmstrongNumberChecker\bin\Debug\ArmstrongNumberChecker.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\ArmstrongNumberChecker\ArmstrongNumberChecker\bin\Debug\ArmstrongNumberChecker.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\ArmstrongNumberChecker\ArmstrongNumberChecker\bin\Debug\ArmstrongNumberChecker.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\ArmstrongNumberChecker\ArmstrongNumberChecker\obj\Debug\ArmstrongNumberChecker.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\ArmstrongNumberChecker\ArmstrongNumberChecker\obj\Debug\ArmstrongNumberChecker.pdb

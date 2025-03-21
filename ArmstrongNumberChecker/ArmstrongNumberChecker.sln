@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArmstrongNumberChecker", "ArmstrongNumberChecker\ArmstrongNumberChecker.csproj", "{B7D08EA4-C033-4C14-9392-BA7FBE7AE86B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7D08EA4-C033-4C14-9392-BA7FBE7AE86B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D08EA4-C033-4C14-9392-BA7FBE7AE86B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D08EA4-C033-4C14-9392-BA7FBE7AE86B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D08EA4-C033-4C14-9392-BA7FBE7AE86B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AD6CEA3-B60D-42CF-BC65-08E0F774BE73}
+	EndGlobalSection
+EndGlobal

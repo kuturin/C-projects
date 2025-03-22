@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\PrintArmstrongNumbers\PrintArmstrongNumbers\obj\Debug\PrintArmstrongNumbers.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\PrintArmstrongNumbers\PrintArmstrongNumbers\obj\Debug\PrintArmstrongNumbers.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\PrintArmstrongNumbers\PrintArmstrongNumbers\bin\Debug\PrintArmstrongNumbers.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\PrintArmstrongNumbers\PrintArmstrongNumbers\bin\Debug\PrintArmstrongNumbers.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\PrintArmstrongNumbers\PrintArmstrongNumbers\bin\Debug\PrintArmstrongNumbers.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\PrintArmstrongNumbers\PrintArmstrongNumbers\obj\Debug\PrintArmstrongNumbers.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\PrintArmstrongNumbers\PrintArmstrongNumbers\obj\Debug\PrintArmstrongNumbers.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintArmstrongNumbers", "PrintArmstrongNumbers\PrintArmstrongNumbers.csproj", "{8DBED347-EB62-431A-A6B1-34826A3A0DC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DBED347-EB62-431A-A6B1-34826A3A0DC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DBED347-EB62-431A-A6B1-34826A3A0DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DBED347-EB62-431A-A6B1-34826A3A0DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DBED347-EB62-431A-A6B1-34826A3A0DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4B3C28A-26C0-41D2-A072-1B8308D62EC3}
+	EndGlobalSection
+EndGlobal

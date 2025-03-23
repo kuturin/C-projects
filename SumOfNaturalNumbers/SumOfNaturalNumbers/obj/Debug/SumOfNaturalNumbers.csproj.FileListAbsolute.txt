@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SumOfNaturalNumbers\SumOfNaturalNumbers\bin\Debug\SumOfNaturalNumbers.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SumOfNaturalNumbers\SumOfNaturalNumbers\bin\Debug\SumOfNaturalNumbers.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SumOfNaturalNumbers\SumOfNaturalNumbers\bin\Debug\SumOfNaturalNumbers.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SumOfNaturalNumbers\SumOfNaturalNumbers\obj\Debug\SumOfNaturalNumbers.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SumOfNaturalNumbers\SumOfNaturalNumbers\obj\Debug\SumOfNaturalNumbers.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SumOfNaturalNumbers\SumOfNaturalNumbers\obj\Debug\SumOfNaturalNumbers.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SumOfNaturalNumbers\SumOfNaturalNumbers\obj\Debug\SumOfNaturalNumbers.pdb

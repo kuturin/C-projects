@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\FactorsOfGivenNumber\FactorsOfGivenNumber\bin\Debug\FactorsOfGivenNumber.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\FactorsOfGivenNumber\FactorsOfGivenNumber\bin\Debug\FactorsOfGivenNumber.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\FactorsOfGivenNumber\FactorsOfGivenNumber\bin\Debug\FactorsOfGivenNumber.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\FactorsOfGivenNumber\FactorsOfGivenNumber\obj\Debug\FactorsOfGivenNumber.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\FactorsOfGivenNumber\FactorsOfGivenNumber\obj\Debug\FactorsOfGivenNumber.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\FactorsOfGivenNumber\FactorsOfGivenNumber\obj\Debug\FactorsOfGivenNumber.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\FactorsOfGivenNumber\FactorsOfGivenNumber\obj\Debug\FactorsOfGivenNumber.pdb

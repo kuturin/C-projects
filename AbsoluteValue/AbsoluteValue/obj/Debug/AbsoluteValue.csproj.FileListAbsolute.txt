@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\AbsoluteValue\AbsoluteValue\bin\Debug\AbsoluteValue.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\AbsoluteValue\AbsoluteValue\bin\Debug\AbsoluteValue.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\AbsoluteValue\AbsoluteValue\bin\Debug\AbsoluteValue.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\AbsoluteValue\AbsoluteValue\obj\Debug\AbsoluteValue.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\AbsoluteValue\AbsoluteValue\obj\Debug\AbsoluteValue.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\AbsoluteValue\AbsoluteValue\obj\Debug\AbsoluteValue.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\AbsoluteValue\AbsoluteValue\obj\Debug\AbsoluteValue.pdb

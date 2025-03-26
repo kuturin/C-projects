@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadomNumber", "RadomNumber\RadomNumber.csproj", "{E7EC0D3B-BF3B-4102-95E1-360456CC1F3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7EC0D3B-BF3B-4102-95E1-360456CC1F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7EC0D3B-BF3B-4102-95E1-360456CC1F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7EC0D3B-BF3B-4102-95E1-360456CC1F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7EC0D3B-BF3B-4102-95E1-360456CC1F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9227F531-9794-405F-A6A2-B7E0B65572F6}
+	EndGlobalSection
+EndGlobal

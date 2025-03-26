@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\RadomNumber\RadomNumber\bin\Debug\RadomNumber.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\RadomNumber\RadomNumber\bin\Debug\RadomNumber.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\RadomNumber\RadomNumber\bin\Debug\RadomNumber.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\RadomNumber\RadomNumber\obj\Debug\RadomNumber.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\RadomNumber\RadomNumber\obj\Debug\RadomNumber.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\RadomNumber\RadomNumber\obj\Debug\RadomNumber.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\RadomNumber\RadomNumber\obj\Debug\RadomNumber.pdb

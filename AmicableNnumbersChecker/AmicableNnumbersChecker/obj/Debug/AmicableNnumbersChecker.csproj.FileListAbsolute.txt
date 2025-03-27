@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\AmicableNnumbersChecker\AmicableNnumbersChecker\bin\Debug\AmicableNnumbersChecker.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\AmicableNnumbersChecker\AmicableNnumbersChecker\bin\Debug\AmicableNnumbersChecker.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\AmicableNnumbersChecker\AmicableNnumbersChecker\bin\Debug\AmicableNnumbersChecker.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\AmicableNnumbersChecker\AmicableNnumbersChecker\obj\Debug\AmicableNnumbersChecker.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\AmicableNnumbersChecker\AmicableNnumbersChecker\obj\Debug\AmicableNnumbersChecker.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\AmicableNnumbersChecker\AmicableNnumbersChecker\obj\Debug\AmicableNnumbersChecker.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\AmicableNnumbersChecker\AmicableNnumbersChecker\obj\Debug\AmicableNnumbersChecker.pdb

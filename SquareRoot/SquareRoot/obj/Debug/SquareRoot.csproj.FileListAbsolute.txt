@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SquareRoot\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SquareRoot\SquareRoot\bin\Debug\SquareRoot.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SquareRoot\SquareRoot\bin\Debug\SquareRoot.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SquareRoot\SquareRoot\obj\Debug\SquareRoot.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SquareRoot\SquareRoot\obj\Debug\SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SquareRoot\SquareRoot\obj\Debug\SquareRoot.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SquareRoot\SquareRoot\obj\Debug\SquareRoot.pdb

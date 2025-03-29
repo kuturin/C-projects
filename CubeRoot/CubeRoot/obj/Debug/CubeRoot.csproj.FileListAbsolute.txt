@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\CubeRoot\CubeRoot\bin\Debug\CubeRoot.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\CubeRoot\CubeRoot\bin\Debug\CubeRoot.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\CubeRoot\CubeRoot\bin\Debug\CubeRoot.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\CubeRoot\CubeRoot\obj\Debug\CubeRoot.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\CubeRoot\CubeRoot\obj\Debug\CubeRoot.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\CubeRoot\CubeRoot\obj\Debug\CubeRoot.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\CubeRoot\CubeRoot\obj\Debug\CubeRoot.pdb

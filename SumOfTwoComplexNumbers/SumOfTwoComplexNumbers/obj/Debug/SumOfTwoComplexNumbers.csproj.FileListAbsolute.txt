@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SumOfTwoComplexNumbers\SumOfTwoComplexNumbers\obj\Debug\SumOfTwoComplexNumbers.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SumOfTwoComplexNumbers\SumOfTwoComplexNumbers\obj\Debug\SumOfTwoComplexNumbers.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SumOfTwoComplexNumbers\SumOfTwoComplexNumbers\bin\Debug\SumOfTwoComplexNumbers.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SumOfTwoComplexNumbers\SumOfTwoComplexNumbers\bin\Debug\SumOfTwoComplexNumbers.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SumOfTwoComplexNumbers\SumOfTwoComplexNumbers\bin\Debug\SumOfTwoComplexNumbers.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SumOfTwoComplexNumbers\SumOfTwoComplexNumbers\obj\Debug\SumOfTwoComplexNumbers.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\SumOfTwoComplexNumbers\SumOfTwoComplexNumbers\obj\Debug\SumOfTwoComplexNumbers.pdb

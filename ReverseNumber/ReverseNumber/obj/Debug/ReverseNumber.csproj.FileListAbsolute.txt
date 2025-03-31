@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\ReverseNumber\ReverseNumber\bin\Debug\ReverseNumber.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\ReverseNumber\ReverseNumber\bin\Debug\ReverseNumber.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\ReverseNumber\ReverseNumber\bin\Debug\ReverseNumber.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\ReverseNumber\ReverseNumber\obj\Debug\ReverseNumber.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\ReverseNumber\ReverseNumber\obj\Debug\ReverseNumber.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\ReverseNumber\ReverseNumber\obj\Debug\ReverseNumber.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\ReverseNumber\ReverseNumber\obj\Debug\ReverseNumber.pdb

@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\PowerOf\PowerOf\bin\Debug\PowerOf.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\PowerOf\PowerOf\bin\Debug\PowerOf.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\PowerOf\PowerOf\bin\Debug\PowerOf.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\PowerOf\PowerOf\obj\Debug\PowerOf.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\PowerOf\PowerOf\obj\Debug\PowerOf.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\PowerOf\PowerOf\obj\Debug\PowerOf.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\PowerOf\PowerOf\obj\Debug\PowerOf.pdb

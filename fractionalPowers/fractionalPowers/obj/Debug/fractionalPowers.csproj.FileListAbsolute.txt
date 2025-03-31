@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\fractionalPowers\fractionalPowers\bin\Debug\fractionalPowers.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\fractionalPowers\fractionalPowers\bin\Debug\fractionalPowers.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\fractionalPowers\fractionalPowers\bin\Debug\fractionalPowers.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\fractionalPowers\fractionalPowers\obj\Debug\fractionalPowers.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\fractionalPowers\fractionalPowers\obj\Debug\fractionalPowers.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\fractionalPowers\fractionalPowers\obj\Debug\fractionalPowers.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\fractionalPowers\fractionalPowers\obj\Debug\fractionalPowers.pdb

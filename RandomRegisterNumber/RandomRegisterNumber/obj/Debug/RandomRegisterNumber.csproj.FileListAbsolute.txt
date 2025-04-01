@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\RandomRegisterNumber\RandomRegisterNumber\bin\Debug\RandomRegisterNumber.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\RandomRegisterNumber\RandomRegisterNumber\bin\Debug\RandomRegisterNumber.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\RandomRegisterNumber\RandomRegisterNumber\bin\Debug\RandomRegisterNumber.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\RandomRegisterNumber\RandomRegisterNumber\obj\Debug\RandomRegisterNumber.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\RandomRegisterNumber\RandomRegisterNumber\obj\Debug\RandomRegisterNumber.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\RandomRegisterNumber\RandomRegisterNumber\obj\Debug\RandomRegisterNumber.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\RandomRegisterNumber\RandomRegisterNumber\obj\Debug\RandomRegisterNumber.pdb

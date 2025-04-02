@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\GetLocalTime\GetLocalTime\bin\Debug\GetLocalTime.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\GetLocalTime\GetLocalTime\bin\Debug\GetLocalTime.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\GetLocalTime\GetLocalTime\bin\Debug\GetLocalTime.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\GetLocalTime\GetLocalTime\obj\Debug\GetLocalTime.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\GetLocalTime\GetLocalTime\obj\Debug\GetLocalTime.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\GetLocalTime\GetLocalTime\obj\Debug\GetLocalTime.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\GetLocalTime\GetLocalTime\obj\Debug\GetLocalTime.pdb

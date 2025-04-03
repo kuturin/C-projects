@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\GetUniversalTime\GetUniversalTime\bin\Debug\GetUniversalTime.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\GetUniversalTime\GetUniversalTime\bin\Debug\GetUniversalTime.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\GetUniversalTime\GetUniversalTime\bin\Debug\GetUniversalTime.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\GetUniversalTime\GetUniversalTime\obj\Debug\GetUniversalTime.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\GetUniversalTime\GetUniversalTime\obj\Debug\GetUniversalTime.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\GetUniversalTime\GetUniversalTime\obj\Debug\GetUniversalTime.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\GetUniversalTime\GetUniversalTime\obj\Debug\GetUniversalTime.pdb

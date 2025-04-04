@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DateInVariousFormats\DateInVariousFormats\bin\Debug\DateInVariousFormats.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DateInVariousFormats\DateInVariousFormats\bin\Debug\DateInVariousFormats.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DateInVariousFormats\DateInVariousFormats\bin\Debug\DateInVariousFormats.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DateInVariousFormats\DateInVariousFormats\obj\Debug\DateInVariousFormats.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DateInVariousFormats\DateInVariousFormats\obj\Debug\DateInVariousFormats.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DateInVariousFormats\DateInVariousFormats\obj\Debug\DateInVariousFormats.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DateInVariousFormats\DateInVariousFormats\obj\Debug\DateInVariousFormats.pdb

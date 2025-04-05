@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\AddDays\AddDays\obj\Debug\AddDays.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\AddDays\AddDays\obj\Debug\AddDays.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\AddDays\AddDays\bin\Debug\AddDays.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\AddDays\AddDays\bin\Debug\AddDays.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\AddDays\AddDays\bin\Debug\AddDays.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\AddDays\AddDays\obj\Debug\AddDays.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\AddDays\AddDays\obj\Debug\AddDays.pdb

@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\LoopYear\LoopYear\obj\Debug\LoopYear.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\LoopYear\LoopYear\obj\Debug\LoopYear.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\LoopYear\LoopYear\bin\Debug\LoopYear.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\LoopYear\LoopYear\bin\Debug\LoopYear.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\LoopYear\LoopYear\bin\Debug\LoopYear.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\LoopYear\LoopYear\obj\Debug\LoopYear.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\LoopYear\LoopYear\obj\Debug\LoopYear.pdb

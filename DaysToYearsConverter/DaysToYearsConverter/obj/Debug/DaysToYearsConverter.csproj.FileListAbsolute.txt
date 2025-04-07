@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DaysToYearsConverter\DaysToYearsConverter\bin\Debug\DaysToYearsConverter.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DaysToYearsConverter\DaysToYearsConverter\bin\Debug\DaysToYearsConverter.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DaysToYearsConverter\DaysToYearsConverter\bin\Debug\DaysToYearsConverter.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DaysToYearsConverter\DaysToYearsConverter\obj\Debug\DaysToYearsConverter.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DaysToYearsConverter\DaysToYearsConverter\obj\Debug\DaysToYearsConverter.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DaysToYearsConverter\DaysToYearsConverter\obj\Debug\DaysToYearsConverter.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DaysToYearsConverter\DaysToYearsConverter\obj\Debug\DaysToYearsConverter.pdb

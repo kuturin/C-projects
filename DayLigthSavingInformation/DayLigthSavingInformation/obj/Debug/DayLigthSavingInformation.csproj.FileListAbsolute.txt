@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DayLigthSavingInformation\DayLigthSavingInformation\bin\Debug\DayLigthSavingInformation.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DayLigthSavingInformation\DayLigthSavingInformation\bin\Debug\DayLigthSavingInformation.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DayLigthSavingInformation\DayLigthSavingInformation\bin\Debug\DayLigthSavingInformation.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DayLigthSavingInformation\DayLigthSavingInformation\obj\Debug\DayLigthSavingInformation.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DayLigthSavingInformation\DayLigthSavingInformation\obj\Debug\DayLigthSavingInformation.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DayLigthSavingInformation\DayLigthSavingInformation\obj\Debug\DayLigthSavingInformation.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DayLigthSavingInformation\DayLigthSavingInformation\obj\Debug\DayLigthSavingInformation.pdb

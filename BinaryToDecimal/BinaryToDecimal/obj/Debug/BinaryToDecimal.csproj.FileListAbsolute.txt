@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\BinaryToDecimal\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\BinaryToDecimal\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\BinaryToDecimal\BinaryToDecimal\bin\Debug\BinaryToDecimal.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\BinaryToDecimal\BinaryToDecimal\obj\Debug\BinaryToDecimal.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\BinaryToDecimal\BinaryToDecimal\obj\Debug\BinaryToDecimal.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\BinaryToDecimal\BinaryToDecimal\obj\Debug\BinaryToDecimal.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\BinaryToDecimal\BinaryToDecimal\obj\Debug\BinaryToDecimal.pdb

@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\HexadecimalToDecimal\HexadecimalToDecimal\bin\Debug\HexadecimalToDecimal.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\HexadecimalToDecimal\HexadecimalToDecimal\bin\Debug\HexadecimalToDecimal.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\HexadecimalToDecimal\HexadecimalToDecimal\bin\Debug\HexadecimalToDecimal.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\HexadecimalToDecimal\HexadecimalToDecimal\obj\Debug\HexadecimalToDecimal.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\HexadecimalToDecimal\HexadecimalToDecimal\obj\Debug\HexadecimalToDecimal.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\HexadecimalToDecimal\HexadecimalToDecimal\obj\Debug\HexadecimalToDecimal.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\HexadecimalToDecimal\HexadecimalToDecimal\obj\Debug\HexadecimalToDecimal.pdb

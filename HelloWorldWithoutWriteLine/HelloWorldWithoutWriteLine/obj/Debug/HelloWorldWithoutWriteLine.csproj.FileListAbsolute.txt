@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\HelloWorldWithoutWriteLine\HelloWorldWithoutWriteLine\bin\Debug\HelloWorldWithoutWriteLine.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\HelloWorldWithoutWriteLine\HelloWorldWithoutWriteLine\bin\Debug\HelloWorldWithoutWriteLine.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\HelloWorldWithoutWriteLine\HelloWorldWithoutWriteLine\bin\Debug\HelloWorldWithoutWriteLine.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\HelloWorldWithoutWriteLine\HelloWorldWithoutWriteLine\obj\Debug\HelloWorldWithoutWriteLine.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\HelloWorldWithoutWriteLine\HelloWorldWithoutWriteLine\obj\Debug\HelloWorldWithoutWriteLine.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\HelloWorldWithoutWriteLine\HelloWorldWithoutWriteLine\obj\Debug\HelloWorldWithoutWriteLine.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\HelloWorldWithoutWriteLine\HelloWorldWithoutWriteLine\obj\Debug\HelloWorldWithoutWriteLine.pdb

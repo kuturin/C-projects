@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DisplayATMTransaction\DisplayATMTransaction\bin\Debug\DisplayATMTransaction.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DisplayATMTransaction\DisplayATMTransaction\bin\Debug\DisplayATMTransaction.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DisplayATMTransaction\DisplayATMTransaction\bin\Debug\DisplayATMTransaction.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DisplayATMTransaction\DisplayATMTransaction\obj\Debug\DisplayATMTransaction.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DisplayATMTransaction\DisplayATMTransaction\obj\Debug\DisplayATMTransaction.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DisplayATMTransaction\DisplayATMTransaction\obj\Debug\DisplayATMTransaction.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\DisplayATMTransaction\DisplayATMTransaction\obj\Debug\DisplayATMTransaction.pdb

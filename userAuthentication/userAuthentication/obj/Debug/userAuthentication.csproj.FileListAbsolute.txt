@@ -1,0 +1,7 @@
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\userAuthentication\userAuthentication\bin\Debug\userAuthentication.exe.config
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\userAuthentication\userAuthentication\bin\Debug\userAuthentication.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\userAuthentication\userAuthentication\bin\Debug\userAuthentication.pdb
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\userAuthentication\userAuthentication\obj\Debug\userAuthentication.csproj.AssemblyReference.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\userAuthentication\userAuthentication\obj\Debug\userAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\userAuthentication\userAuthentication\obj\Debug\userAuthentication.exe
+C:\Users\turku\OneDrive\Desktop\programowanie\projekty\C-projects\userAuthentication\userAuthentication\obj\Debug\userAuthentication.pdb
